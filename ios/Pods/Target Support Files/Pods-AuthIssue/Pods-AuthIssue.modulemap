@@ -1,0 +1,6 @@
+framework module Pods_AuthIssue {
+  umbrella header "Pods-AuthIssue-umbrella.h"
+
+  export *
+  module * { export * }
+}
